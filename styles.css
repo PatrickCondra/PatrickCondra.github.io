@@ -22,9 +22,11 @@ body {
 }
 
 img {
-    max-width:75%;
-    height:auto;
+    
     max-height:75%;
+    width:auto;
+    max-width:75%;
+
  }
   
 .dropdown {
