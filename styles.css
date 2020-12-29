@@ -23,7 +23,9 @@ body {
 
 img {
     height: 65%;
-    width: 65%;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
  }
   
 .dropdown {
