@@ -20,6 +20,12 @@ body {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+img {
+    max-width:75%;
+    height:auto;
+    max-height:75%;
+ }
   
 .dropdown {
     float: left;
