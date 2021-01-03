@@ -22,7 +22,7 @@ body {
 }
 
 img {
-    max-width: 70vw;
+    width: auto;
     max-height: 50vh;
 
   }
