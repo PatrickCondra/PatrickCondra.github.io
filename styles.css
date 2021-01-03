@@ -22,8 +22,8 @@ body {
 }
 
 img {
-    height: auto;
     max-width: 65vw;
+    max-height: 65vh;
 
   }
   
